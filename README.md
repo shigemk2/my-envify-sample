@@ -1,3 +1,3 @@
-# my-gulp-template
+# my-envify-sample
 
-A simple gulp template
+https://github.com/hughsk/envify
