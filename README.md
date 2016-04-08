@@ -3,5 +3,5 @@
 https://github.com/hughsk/envify
 
 ```sh
-$ browserify src/example.js -t [ envify --NODE_ENV development ] > dist/example.js
+$ browserify src/example.js -t [ envify --GIT_HASH $(git rev-parse HEAD) ] > dist/example.js
 ```
